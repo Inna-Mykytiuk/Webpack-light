@@ -1,4 +1,2 @@
-import { example } from './js/example';
-import './sass/main.scss';
-
-example();
+import 'normalize.css'
+import './styles/main.scss';
