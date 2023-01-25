@@ -1,13 +1,14 @@
 {
   "name": "name-project",
   "scripts": {
-    "build": "webpack",
-    "dev": "webpack serve --env develop",
-    "deploy": "gh-pages -d build"
+    "start": "webpack --mode=development",
+    "dev": "webpack-dev-server --mode=development",
+    "prod": "webpack --mode=production",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/Inna-Mykytiuk/webP.git"
+    "type": "git",
+    "url": "git+https://github.com/Inna-Mykytiuk/webP.git"
   },
   "keywords": [],
   "author": "Inna",
