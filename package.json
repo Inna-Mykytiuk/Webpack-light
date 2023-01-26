@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Inna-Mykytiuk/webP.git"
+    "url": "git+https://github.com/Inna-Mykytiuk/Webpack-light.git"
   },
   "keywords": [],
   "author": "Inna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Inna-Mykytiuk/webP/issues"
+    "url": "https://github.com/Inna-Mykytiuk/Webpack-light/issues"
   },
-  "homepage": "https://github.com/Inna-Mykytiuk/webP#readme",
+  "homepage": "https://github.com/Inna-Mykytiuk/Webpack-light#readme",
   "devDependencies": {
     "css-loader": "^6.5.1",
     "gh-pages": "^5.0.0",
