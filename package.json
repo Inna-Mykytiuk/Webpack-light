@@ -2,7 +2,7 @@
   "name": "name-project",
   "scripts": {
     "start": "webpack --mode=development",
-    "dev": "webpack-dev-server --mode=development",
+    "dev": "webpack-dev-server --mode=development --open",
     "prod": "webpack --mode=production",
     "deploy": "gh-pages -d dist"
   },
