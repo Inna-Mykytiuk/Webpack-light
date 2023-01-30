@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
 
-@import './layouts';
-
-
+@import "./layouts";
 
 *,
 *::before,
@@ -15,10 +13,14 @@ body {
   text-align: center;
   justify-content: center;
   align-items: center;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 
-background: rgb(71,78,139);
-background: linear-gradient(0deg, rgba(71,78,139,0.8379726890756303) 0%, rgba(141,135,168,0.19931722689075626) 78%);
+  background: rgb(71, 78, 139);
+  background: linear-gradient(
+    0deg,
+    rgba(71, 78, 139, 0.8379726890756303) 0%,
+    rgba(141, 135, 168, 0.19931722689075626) 78%
+  );
 }
 
 ul {
