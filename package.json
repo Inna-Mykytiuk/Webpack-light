@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Inna-Mykytiuk/Webpack-light/issues"
   },
-  "homepage": "https://github.com/Inna-Mykytiuk/Webpack-light#readme",
+  "homepage": "https://Inna-Mykytiuk.github.io/Webpack-light/",
   "devDependencies": {
     "css-loader": "^6.5.1",
     "gh-pages": "^5.0.0",
