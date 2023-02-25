@@ -1,10 +1,4 @@
-/*!***************************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/main.scss ***!
-  \***************************************************************************************************************/
 @import url(https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap);
-/*!********************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/normalize.css/normalize.css ***!
-  \********************************************************************************************/
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -355,77 +349,4 @@ template {
   display: none;
 }
 
-/*!*******************************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/main.scss (1) ***!
-  \*******************************************************************************************************************/
-.container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  width: 700px;
-  height: 700px;
-}
-
-.img {
-  display: block;
-  width: 400px;
-  height: 500px;
-  border-radius: 50%;
-  margin: 0;
-  color: #FFFFFF;
-  background: #333333;
-  box-shadow: #FFF 0px 0px 65px, #FFF 0px 0px 10px, #FFF 0px 0px 25px;
-}
-
-.title {
-  font-size: 42px;
-  font-weight: 700;
-  line-height: 1.56;
-  letter-spacing: 0.03em;
-  color: #545dab;
-  margin-bottom: 50px;
-  text-shadow: -1px -1px 1px rgba(255, 255, 255, 0.1), 1px 1px 1px rgba(0, 0, 0, 0.5), 4px 5px 5px #545dab;
-}
-
-*,
-*::before,
-*::after {
-  box-sizing: inherit;
-}
-
-body {
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  font-family: "Raleway", sans-serif;
-  height: 100vh;
-  background: #474e8b;
-  background: linear-gradient(0deg, rgba(71, 78, 139, 0.8379726891) 0%, rgba(141, 135, 168, 0.1993172269) 78%);
-}
-
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  margin: 0;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
+.container{display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding-top:50px;padding-bottom:50px;width:700px;height:700px}.img{display:block;width:400px;height:500px;border-radius:50%;margin:0;color:#fff;background:#333;box-shadow:#fff 0px 0px 65px,#fff 0px 0px 10px,#fff 0px 0px 25px}.title{font-size:42px;font-weight:700;line-height:1.56;letter-spacing:.03em;color:#545dab;margin-bottom:50px;text-shadow:-1px -1px 1px rgba(255,255,255,.1),1px 1px 1px rgba(0,0,0,.5),4px 5px 5px #545dab}*,*::before,*::after{box-sizing:inherit}body{display:flex;text-align:center;justify-content:center;align-items:center;font-family:"Raleway",sans-serif;height:100vh;background:#474e8b;background:linear-gradient(0deg, rgba(71, 78, 139, 0.8379726891) 0%, rgba(141, 135, 168, 0.1993172269) 78%)}ul{list-style:none;margin:0;padding:0}h1,h2,h3,h4,h5,h6,p{margin:0}img{display:block;max-width:100%;height:auto}
